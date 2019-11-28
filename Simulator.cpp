@@ -2,8 +2,6 @@
 	Sarah Hartley
 	Jodie Laurenson
 	Amy Gourlay
-	Finn Stelfox
-	Andrew Holligan
 */
 
 #include <time.h>
